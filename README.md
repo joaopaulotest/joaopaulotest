@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Bacharel em ciência da computação<br>Desenvolvedor de software<br>Programador python</p>
+<p align="left">Bacharel em ciência da computação<br>Desenvolvedor de software<br>Programador python</p>MySQL
 
 ###
 
